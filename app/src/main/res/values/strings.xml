@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstagramCloneWithFireBase</string>
+    <string name="title_house">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_circle">Circle</string>
+    <string name="title_alert">Alert</string>
+    <string name="title_android">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
